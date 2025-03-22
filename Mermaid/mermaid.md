@@ -17,7 +17,7 @@ flowchart TD;
 
 ``` mermaid
 flowchart LR;
-    A-->B;
+    A-->C;
     A-->C;
     B-->D;
     C-->D;
